@@ -1,3 +1,3 @@
 #!/bin/bash
 
-git add $1
+python3 $1
